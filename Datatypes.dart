@@ -1,4 +1,12 @@
 main() {
+  
+/* int
+   double
+   string
+   bool
+   dynamic
+ */
+  
 int amount1 = 100;
 int amount2 = 200;
 
